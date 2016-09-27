@@ -1,0 +1,28 @@
+Enter a number for the math software you want to select.
+	1. Mathematica
+	2. MTool
+	3. MyMath
+1
+
+Mathematica software selected.
+Enter number of elements for array: 25
+
+Unsorted Array
+	Array: 4, 7, 11, 7, 20, 25, 8, 16, 5, 18, 20, 1, 23, 19, 25, 24, 7, 15, 13, 23, 14, 20, 13, 14, 22
+Sorting array with insertion sort.
+Sorted Array
+	Array: 1, 4, 5, 7, 7, 7, 8, 11, 13, 13, 14, 14, 15, 16, 18, 19, 20, 20, 20, 22, 23, 23, 24, 25, 25
+
+Enter a value for the sorting algorithm to switch to.
+	1. Insertion Sort
+	2. Merge Sort
+	3. Bubble Sort
+3
+
+Unsorted Array
+	Array: 1, 6, 8, 1, 10, 13, 4, 22, 24, 25, 1, 18, 18, 11, 15, 21, 5, 4, 7, 23, 5, 23, 13, 16, 20
+Sorting array with bubble sort.
+Sorted Array
+	Array: 1, 4, 5, 7, 7, 7, 8, 11, 13, 13, 14, 14, 15, 16, 18, 19, 20, 20, 20, 22, 23, 23, 24, 25, 25
+
+Process finished with exit code 0
