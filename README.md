@@ -1,7 +1,13 @@
 # esof322.hw2
-
+![UML Diagram](/uml_diagram.png "UML Diagram")
 ## Exercise
-The **Strategy pattern** is a design apttern used to encapsulate different behaviors and/or algorithms.  The idea is to allow you to swap those strategies at will during the execution of a program.  The architecture of the program remains the same.  According to Gamma et al., the "Strategy pattern is intended to define a family of algorithms, encapsulate each one, and make them interchangeable.  Strategy lets the algorithm vary independently from clients that use it."
+The **Strategy pattern** is a design apttern used to encapsulate
+different behaviors and/or algorithms. The idea is to allow you to swap
+those strategies at will during the execution of a program. The
+architecture of the program remains the same. According to Gamma et al.,
+the "Strategy pattern is intended to define a family of algorithms,
+encapsulate each one, and make them interchangeable. Strategy lets the
+algorithm vary independently from clients that use it."
 
 In this assignment, you are to design, then implement a program in Java (or your OO language of choice) that uses the Strategy pattern to solve the following problem.
 
