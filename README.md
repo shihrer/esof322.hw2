@@ -1,5 +1,5 @@
 # esof322.hw2
-![UML Diagram](/uml_diagram.png "UML Diagram")
+![UML Diagram](/uml_diagram.png?raw=true "UML Diagram")
 ## Exercise
 The **Strategy pattern** is a design apttern used to encapsulate
 different behaviors and/or algorithms. The idea is to allow you to swap
