@@ -6,6 +6,7 @@
  */
 public class Client {
     public static void main(String[] args){
-
+        MathSoftware mathSW = new MTool();
+        mathSW.setSortStrategy(new InsertionSort());
     }
 }
