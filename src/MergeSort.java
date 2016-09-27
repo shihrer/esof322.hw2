@@ -8,6 +8,7 @@ import java.util.Arrays;
  */
 class MergeSort implements SortStrategy {
     public int[] mathSort(int[] input) {
+        System.out.println("Sorting array using merge sort.");
         return this.mergeSort(input);
     }
 
